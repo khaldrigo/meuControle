@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+Aplicativo para controle semanal de despesas.
 
 ## Getting Started
 
