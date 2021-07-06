@@ -1,4 +1,4 @@
-# expenses
+# Meu Controle
 
 Aplicativo para controle semanal de despesas.
 
