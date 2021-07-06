@@ -2,6 +2,10 @@
 
 Aplicativo para controle semanal de despesas.
 
+Update 05/07/2021
+
+Atualização na responsividade da aplicação
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
